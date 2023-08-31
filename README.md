@@ -1,10 +1,11 @@
 # Churn Prediction
 ⚠️Em construção
-<img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/fraud_detection_portuguese) para Português-BR_   
+
+<img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/churn_prediction_portuguese) para Português-BR_   
 <br/>
 
 <p align="center">
-  <img src="fraud_detection.png" height=500px>
+  <img src="churn_prediction.png" height=500px>
 </p>
 <br/>
 
@@ -18,22 +19,22 @@ This study aimed to analyze credit card data and improve the detection of frauds
 <br/>
 
 ## Additional Material 
-The results obtained with the best machine learning model were condensed into images to generate a straightforward presentation of what the company could achieve with the use of this algorithm.
+The results obtained with XGBoost algorithm model were condensed into images to generate a straightforward presentation of what the company could achieve with the use of this tool.
 
 <p align="center">
-  <img src="fraud_detection_results_1.PNG" width="50%">
+  <img src="churn_prediction_results_1.PNG" width="50%">
 </p>
 <br/>
 <p align="center">
-  <img src="fraud_detection_results_2.PNG" width="50%">
+  <img src="churn_prediction_results_2.PNG" width="50%">
 </p>
 <br/>
 <p align="center">
-  <img src="fraud_detection_results_3.PNG" width="50%">
+  <img src="churn_prediction_results_3.PNG" width="50%">
 </p>
 <br/>
 <p align="center">
-  <img src="fraud_detection_results_4.PNG" width="50%">
+  <img src="churn_prediction_results_4.PNG" width="50%">
 </p>
 <br/>
 
