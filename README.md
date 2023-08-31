@@ -1,5 +1,5 @@
 # Churn Prediction
-⚠️Em construção
+⚠️Under construction - The full project will be published on 5th September, 2023⚠️
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/churn_prediction_portuguese) para Português-BR_   
 <br/>
