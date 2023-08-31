@@ -10,7 +10,7 @@
 <br/>
 
 ## About the project
-The main goal of this study was to Create a machine-learning model using the XGBoost algorithm to predict churn in a telecommunications company. To achieve this, exploratory data analysis was done to understand the dataset and to extract insights that could assist in the later stages of the project. Also, it was created 7 models using different algorithms and then evaluated by the Recall value. Finally, I optimized the XGBoost hyperparameters to obtain a better performance and conducted feature engineering to try to enhance even more the churn prediction.
+The main goal of this study was to create a machine-learning model using the XGBoost algorithm to predict churn in a telecommunications company. To achieve this, exploratory data analysis was done to understand the dataset and to extract insights that could assist in the later stages of the project. Also, it was created 7 models using different algorithms and then evaluated by the Recall value. Finally, I optimized the XGBoost hyperparameters to obtain a better performance and conducted feature engineering to try to enhance even more the churn prediction.
 
 * **[Code File]()**
 * **[Full Article]()**
