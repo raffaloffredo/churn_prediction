@@ -10,12 +10,11 @@
 <br/>
 
 ## About the project
-This study aimed to analyze credit card data and improve the detection of frauds carried out with this type of payment through the construction of predictive models using machine learning. To achieve this, an exploratory analysis was conducted to understand the dataset and extract insights, as well as to verify possible correlations among the attributes. Then, two predictive models were created using machine learning, employing Linear Regression and Decision Tree algorithms. Finally, the models' results were evaluated to identify the one with the best performance based on the metrics of Recall, AUC, and confusion matrix.
+The main goal of this study was to Create a machine-learning model using the XGBoost algorithm to predict churn in a telecommunications company. To achieve this, exploratory data analysis was done to understand the dataset and to extract insights that could assist in the later stages of the project. Also, it was created 7 models using different algorithms and then evaluated by the Recall value. Finally, I optimized the XGBoost hyperparameters to obtain a better performance and conducted feature engineering to try to enhance even more the churn prediction.
 
-
-* **[Code File](https://github.com/raffaloffredo/fraud_detection/blob/main/%5BLoffredoDS%5D_Credit_card_fraud_detection.ipynb)**
-* **[Full Article](https://medium.com/@loffredo.ds/construction-of-machine-learning-models-to-predict-credit-card-fraud-e926fca4229c)**
-* **[Summarized Article (Results)](https://www.linkedin.com/pulse/results-obtained-machine-learning-models-predict-credit-loffredo)**
+* **[Code File]()**
+* **[Full Article]()**
+* **[Summarized Article (Results)]()**
 <br/>
 
 ## Additional Material 
