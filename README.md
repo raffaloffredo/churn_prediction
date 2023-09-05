@@ -1,5 +1,4 @@
 # Churn Prediction
-⚠️Under construction - The full project will be published on 5th September, 2023⚠️
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/churn_prediction_portuguese) para Português-BR_   
 <br/>
@@ -12,9 +11,9 @@
 ## About the project
 The main goal of this study was to create a machine-learning model using the XGBoost algorithm to predict churn in a telecommunications company. To achieve this, exploratory data analysis was done to understand the dataset and to extract insights that could assist in the later stages of the project. Also, it was created 7 models using different algorithms and then evaluated by the Recall value. Finally, I optimized the XGBoost hyperparameters to obtain a better performance and conducted feature engineering to try to enhance even more the churn prediction.
 
-* **[Code File]()**
-* **[Full Article]()**
-* **[Summarized Article (Results)]()**
+* **[Code File](https://github.com/raffaloffredo/churn_prediction/blob/main/%5BLoffredoDS%5D_Predictive_Churn_Analysis_in_Telecommunications.ipynb)**
+* **[Full Article](https://medium.com/@loffredo.ds/construction-of-predictive-churn-model-using-xgboost-899f206a52b8)**
+* **[Summarized Article (Results)](https://www.linkedin.com/pulse/results-obtained-machine-learning-models-churn-raffaela-loffredo/)**
 <br/>
 
 ## Additional Material 
